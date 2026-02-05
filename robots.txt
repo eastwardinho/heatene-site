@@ -1,0 +1,5 @@
+# HeatENE USA - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.heatene.com/sitemap.xml
